@@ -1,10 +1,10 @@
-##Ola! Eu sou o Gustavo Galassi👋
+##Ola! Eu sou o Ulisses Gomes👋
 
 - 🔭 Em transiçãode carreira ...
-- 🌱 Estudando Java FullStack
+- 🌱 Estudando Java | Spring
 
 <div align="center">
-  <a href="https://github.com/grgalassi">
+  <a href="https://github.com/Ulisses-Gomes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grgalassi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grgalassi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -19,9 +19,9 @@
  
 <div> 
  
- <a href="https://discord.gg/Grgalassi#0798" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:grgalassi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-galassi-8700a53b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/Ulisses#5777" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ulissesgomes2005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ulisses-araujo-59831931/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
