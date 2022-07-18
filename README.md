@@ -1,6 +1,6 @@
 ##Ola! Eu sou o Ulisses Gomes👋
 
-- 🔭 Em transiçãode carreira ...
+- 🔭 Em transição de carreira ...
 - 🌱 Estudando Java | Spring
 
 <div align="center">
